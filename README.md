@@ -1,45 +1,28 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+**Blogging Platform**
 
-These are common Git commands used in various situations:
+This project involves front-end development for creating a user-friendly interface and back-end functionalities for handling user authentication, data storage, and retrieval of data.
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+Users can create accounts, write blog posts, publish them and users can update or delete their own blogs.
+Enabled users to create accounts, write blog posts, publish them, and update or delete their own blogs.
+Implemented a blog categorization system for organizing and browsing blogs based on categories.
+Included blog attributes such as Title, Subtitle, Category, content, and related images for a comprehensive blogging experience.
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+**Home page**
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+![image](https://github.com/Surbhitsingh/Blogging_Platform/assets/91202957/291e83b8-ee0d-445e-9087-abf2e5c99ab1)
+![image](https://github.com/Surbhitsingh/Blogging_Platform/assets/91202957/4a7170c0-72e5-4201-95aa-cb4bc9bfdb0b)
+![image](https://github.com/Surbhitsingh/Blogging_Platform/assets/91202957/6f1b56de-4cbd-4068-b706-281d4ad432ef)
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+**A blog**
+
+![image](https://github.com/Surbhitsingh/Blogging_Platform/assets/91202957/26d9fc6d-3a9e-4872-bc09-186408cc503c)
+![image](https://github.com/Surbhitsingh/Blogging_Platform/assets/91202957/ec2ecbc4-1435-4bf4-9180-b35a3901b5e8)
+
+
+**Create**
+
+![image](https://github.com/Surbhitsingh/Blogging_Platform/assets/91202957/34bc69d4-e78e-4f04-9a85-5d920db43a60)
+![image](https://github.com/Surbhitsingh/Blogging_Platform/assets/91202957/a39ba46e-0017-4b9b-a9af-c122a10cc274)
+
